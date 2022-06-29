@@ -5,7 +5,7 @@
 Extension module for the GlueBackendApiApplication module.
 
 **DEPRECATED - This module is not continued at this point.**
-Please use [https://github.com/spryker/glue-application](https://github.com/spryker/glue-application) instead.
+Please use [spryker/glue-application](https://github.com/spryker/glue-application) instead.
 
 ## Installation
 
