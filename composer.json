@@ -36,5 +36,6 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
-    }
+    },
+    "abandoned": "https://github.com/spryker/glue-application"
 }
